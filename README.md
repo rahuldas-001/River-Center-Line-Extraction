@@ -20,7 +20,8 @@ To run this project, you need the following Python packages:
 **Post-Processing**: The skeletonized lines are converted back to geographic coordinates.
 **Visualization**: The original river geometry and the computed centerline are visualized using matplotlib, and the centerline is saved as a new shapefile.
 
-**Important Notes**
+**Important Notes**:  The code works best for single-channel or meandering river channel geometries. The capability of the code to processes complex channel meandering rivers are in progress. 
+
 **Multichannel Rivers:** The code handles multichannel rivers by converting MultiPolygon geometries into individual Polygon geometries.
 **Aspect Ratio:** The aspect ratio of the plot is set to be equal for better visualization.
 **Pixel Size: ** The pixel size used in rasterization may need adjustment to balance processing time and accuracy.
