@@ -24,7 +24,8 @@ To run this project, you need the following Python packages:
 
 
 
-Example Output
+**Example Output** : 
+
 The following is an example of the extraction and visualization of the Buridihing River in Assam, India centerline visualization:  The original river geometry is shown in blue, while the extracted centerline is in yellow.
 
 
