@@ -26,4 +26,13 @@ To run this project, you need the following Python packages:
 **Pixel Size: ** The pixel size used in rasterization may need adjustment to balance processing time and accuracy.
 
 Example Output
-The following is an example of the centerline visualization:  The original river geometry is shown in blue, while the extracted centerline is in yellow.
+The following is an example of the extraction and visualization of the Buridihing river in Assam,India centerline visualization:  The original river geometry is shown in blue, while the extracted centerline is in yellow.
+
+
+![image](https://github.com/user-attachments/assets/a9cfe107-4af3-498d-a2ca-21116ab97959)
+![image](https://github.com/user-attachments/assets/e56b25cd-242f-44dd-93cf-52e29232d13c)
+
+
+
+
+
